@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE90-55B0
+
+ Directory of C:\Users\prati\Desktop\My Project
+
+04/22/2021  04:38 AM    <DIR>          .
+04/22/2021  04:38 AM    <DIR>          ..
+04/22/2021  04:38 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  190,995,582,976 bytes free
